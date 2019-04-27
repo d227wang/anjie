@@ -26,7 +26,7 @@ body {
 }
 
 #logo {
-  position: absolute;
+  display: inline-block;
   width: 140px;
   height: 0;
   background-color: #333;
@@ -37,7 +37,8 @@ body {
 .topnav img {
   float: center;
   width: 100%;
-  
+  height: auto;
+  padding-bottom: 5vh;
 }
 
 .topnav .navLinkSecondary {

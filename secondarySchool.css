@@ -1,0 +1,11 @@
+.textContainer table {
+	width:100%;
+}
+
+.tableContainer th,td {
+	padding: 3px;
+}
+
+.textContainer table, th, td{
+	border: 1px solid black;
+}

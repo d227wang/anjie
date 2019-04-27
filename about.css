@@ -1,0 +1,35 @@
+
+.portraitContainer {
+	display: block;
+	padding-left: 15vw;
+	padding-right: 15vw;
+	padding-bottom: 5vh;
+	width: 100%;
+	overflow:auto; 
+}
+
+#leftPortrait {
+	width: 45%;
+	height: 100%;
+	float:left;
+	text-align: center;
+	padding-bottom: 5vh;
+}
+
+#rightPortrait {
+	width: 45%;
+	float:right;
+	height: 100%;
+	text-align: center;
+	padding-bottom: 5vh;
+}
+
+#leftPortrait img {
+	width: 100%;
+	height: 100%;
+}
+
+#rightPortrait img {
+	width: 100%;
+	height: 100%;
+}

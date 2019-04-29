@@ -1,15 +1,15 @@
 
 .portraitContainer {
 	display: block;
-	padding-left: 15vw;
-	padding-right: 15vw;
+	padding-left: 25vw;
+	padding-right: 25vw;
 	padding-bottom: 5vh;
 	width: 100%;
 	overflow:auto; 
 }
 
 #leftPortrait {
-	width: 45%;
+	width: 35%;
 	height: 100%;
 	float:left;
 	text-align: center;
@@ -17,7 +17,7 @@
 }
 
 #rightPortrait {
-	width: 45%;
+	width: 35%;
 	float:right;
 	height: 100%;
 	text-align: center;
